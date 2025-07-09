@@ -35,4 +35,4 @@ notificacao/
 ```
 
 ---
-Projeto criado para fins didáticos com base nos estudos de Design Patterns.
+Projeto criado para fins didáticos com base nos estudos de Digital Innovation One.
